@@ -1,0 +1,21 @@
+# Build outputs
+build/
+bin/
+lib/
+out/
+
+# Visual Studio & MSVC artifacts
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+
+# Node editor runtime cache & saves
+NodeEditorSettings.json
+*.json
+!TheRose.json # (Keep your artwork if you want it tracked as a sample)
+
+# System / OS files
+.DS_Store
+Thumbs.db
